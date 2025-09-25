@@ -93,10 +93,10 @@ pnpm-global
 .cache
 
 # rollup.js default build output
-dist/
+# dist/
 
 # vitepress build output
-.vitepress/dist
+# .vitepress/dist
 .vitepress/cache
 
 # Serverless directories
@@ -113,3 +113,4 @@ draft.md
 
 # IDEs
 .idea
+.history
