@@ -33,7 +33,7 @@ jobs:
         with:
           submodules: recursive
       - name: Update submodules to latest commit
-        run: git submodule update --remote --merge
+        run: git submodule update --remote posts
 
       - name: Checkout
         uses: actions/checkout@v4
