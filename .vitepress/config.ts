@@ -36,9 +36,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     cover: '/vitepress-theme-sakura/60651947_p0.jpg',
     hello: 'Hello, Ying Luan',
     social: [
-      { icon: 'fa-github', url: 'https://github.com' },
+      { icon: 'fa-github', url: 'https://github.com/Ying-Luan' },
       { icon: 'fa-twitter', url: 'https://twitter.com' },
-      { icon: 'fa-weibo', url: 'https://weibo.com' },
+      { icon: 'fas fa-envelope', url: 'mailto:3433800035@qq.com' },
     ],
     waline: 'https://blog-waline-e7jqcxb9s-flaribbit.vercel.app/',
   }
